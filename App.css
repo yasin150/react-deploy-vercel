@@ -1,0 +1,49 @@
+.background {
+  background-image: url("./images/voter.png");
+  background-size: cover;
+  height: 100vh; 
+  background-position: center;
+}
+.backgrounds {
+  background-image: url("./images/logins.png");
+  background-size: cover;
+  height: 100vh; 
+  background-position: center;
+}
+.backgroundss {
+  background-image: url("./images/22.png");
+  background-size: cover;
+  height: 100vh; 
+  background-position: center;
+}
+
+.visitor {
+  background-image: url("./images/admin-dashboard.png");
+  background-size: cover;
+  height: 100vh; 
+  background-position: center;
+}
+.vote {
+  background-image: url("./images/77.png");
+  background-size: cover;
+  height: 100vh; 
+  background-position: center;
+}
+.mna {
+  background-image: url("./images/78.png");
+  background-size: cover;
+  height: 100vh; 
+  background-position: center;
+}
+.mainadmin {
+  background-image: url("./images/80.png");
+  background-size: cover;
+  height: 100vh; 
+  background-position: center;
+}
+.result {
+  background-image: url("./images/223 .png");
+  background-size: cover;
+  height: 100vh; 
+  background-position: center;
+}
